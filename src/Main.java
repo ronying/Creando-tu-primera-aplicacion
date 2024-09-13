@@ -4,5 +4,10 @@ public class Main {
         System.out.println("Pelicula: Matrix");
 
         int fechaDeLanzamiento = 1999;
+        boolean incluidoEbElPlan = true;
+        double notaDeLaPelicula =  8.2;
+
+        double media = (8.2 + 6.0 + 9.0 ) / 3;
+        System.out.println(media);
     }
 }
